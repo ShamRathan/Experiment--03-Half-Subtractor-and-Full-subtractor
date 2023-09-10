@@ -4,6 +4,7 @@
 To design a half subtractor and full subtractor circuit and verify its truth table in Quartus using Verilog programming.
 
 ## Equipments Required:
+
 Hardware – PCs, Cyclone II , USB flasher Software – Quartus prime
 
 ## Theory
